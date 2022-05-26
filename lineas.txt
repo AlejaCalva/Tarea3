@@ -1,4 +1,8 @@
 Alejandra@DESKTOP-AKEI2HU MINGW64 ~/documents/github/Tarea3/Saavedra2013 (main)
+
+Alejandra@DESKTOP-AKEI2HU MINGW64 ~/documents/github/Tarea3/Saavedra2013 (main)
+$ cat netsize.sh
+
 Alejandra@DESKTOP-AKEI2HU MINGW64 ~/documents/github/Tarea3/Saavedra2013 (main)
 $ nano netsize.sh
 
@@ -12,7 +16,7 @@ Número de columnas:
 80
 
 Alejandra@DESKTOP-AKEI2HU MINGW64 ~/documents/github/Tarea3/Saavedra2013 (main)
-$ nano netsize_all.sh
+$ cat netsize_all.sh
 
 Alejandra@DESKTOP-AKEI2HU MINGW64 ~/documents/github/Tarea3/Saavedra2013 (main)
 $ nano netsize_all.sh
